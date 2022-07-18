@@ -15,3 +15,19 @@ Think about how you would do this on pen and paper and then how you might transl
 - loop through the given numbers ([link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration))
 - on each iteration add the number to the sum
 - return the sum after finishing the loop
+
+// function with 2 parameters - min, max
+
+// loop 
+// initial values, initializer - min 
+// final values, - max
+// how it changes, every iteration from min to max, i++ 
+// sum += 
+
+// const sumAll = function(min, max) {
+    for ( i = min, i < max.length, i++) {
+        i += 0;
+        let incrementInt = i;
+        console.log(incrementInt);
+    }
+};
